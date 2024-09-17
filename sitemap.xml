@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://bangchat.net/</loc>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+        <loc>https://bangchat.net/about-us</loc>
+        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+        <loc>https://bangchat.net/terms-and-conditions</loc>
+        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+        <loc>https://bangchat.net/privacy-policy</loc>
+        <priority>0.8</priority>
+        <changefreq>daily</changefreq>
+        <lastmod>2024-09-17</lastmod>
+    </url>
+</urlset>
